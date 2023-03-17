@@ -21,5 +21,9 @@ Overall, the transformer decoder has proven to be a powerful tool in NLP and has
 # Learning Source
 
 [paragraph](https://towardsdatascience.com/7-things-you-didnt-know-about-the-transformer-a70d93ced6b2)
+
+
 [Reference video](https://video.search.yahoo.com/search/video;_ylt=AwrO.hQU1xRkLIIMLhtXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=transformer+decoder+resources&fr2=piv-web&type=E211US714G0&fr=mcafee#id=1&vid=7ad8b79aa277035f9eceda4fa20f7db4&action=view)
+
+
 [Transformer decoder video](https://video.search.yahoo.com/search/video;_ylt=AwrO.hQU1xRkLIIMLhtXNyoA;_ylu=Y29sbwNncTEEcG9zAzEEdnRpZAMEc2VjA3BpdnM-?p=transformer+decoder+resources&fr2=piv-web&type=E211US714G0&fr=mcafee#id=1&vid=7ad8b79aa277035f9eceda4fa20f7db4&action=view)
