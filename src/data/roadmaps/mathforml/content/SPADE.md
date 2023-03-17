@@ -10,4 +10,4 @@
 
 - [Semantic Image Synthesis with Spatially Adaptive Normalization](https://youtu.be/XKFp0bFG1tE)
 
-- [Coursera for SPADE](https://www.coursera.org/lecture/data-patterns/5-3-spade-sequential-pattern-mining-in-vertical-data-format-sOm9A)
+- [Coursera for SPADES](https://www.coursera.org/lecture/data-patterns/5-3-spade-sequential-pattern-mining-in-vertical-data-format-sOm9A)
