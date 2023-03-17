@@ -6,7 +6,7 @@
 
 Joint distributions have various applications in different fields. Here are some common uses of joint distributions:
 
- Probability Analysis: Joint distributions are used to study the probability of two or more random variables occurring together. 
+Probability Analysis: Joint distributions are used to study the probability of two or more random variables occurring together. 
 
 This makes them useful in analyzing the likelihood of events happening simultaneously, which is crucial in decision making, risk management, and data analysis.
 
