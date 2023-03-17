@@ -13,7 +13,11 @@ In supervised learning, Decision Trees are a non-parametric technique useful for
 
 [Keytakeaways](https://towardsdatascience.com/decision-trees-6-important-things-to-always-remember-85636858da51)
 <<<<<<< HEAD
+<<<<<<< HEAD
  
 =======
  
 >>>>>>> 8ec5c46182cbe68305bdba4a24de75cb339bc0bb
+=======
+ 
+>>>>>>> c6cd2a8ea1692d7164330aa887a29f6a8da549da
