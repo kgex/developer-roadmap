@@ -12,4 +12,8 @@ In supervised learning, Decision Trees are a non-parametric technique useful for
 [Advantages and Disadvantages of using Decision Tree](https://dhirajkumarblog.medium.com/top-5-advantages-and-disadvantages-of-decision-tree-algorithm-428ebd199d9a)
 
 [Keytakeaways](https://towardsdatascience.com/decision-trees-6-important-things-to-always-remember-85636858da51)
+<<<<<<< HEAD
  
+=======
+ 
+>>>>>>> 8ec5c46182cbe68305bdba4a24de75cb339bc0bb
