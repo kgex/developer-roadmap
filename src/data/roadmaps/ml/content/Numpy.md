@@ -29,13 +29,19 @@ Getting started with array with Numpy
 
 # Site links <ul>
 
-<li><a href="https://www.w3schools.com/python/numpy/numpy_getting_started.asp">Getting started with Numpy (VisitSite)</a> </li>
+<li><a href="https://www.w3schools.com/python/numpy/numpy_getting_started.asp">Getting started with Numpy (Visit Site)</a> </li>
 
+<li><a href="https://www.geeksforgeeks.org/numpy-in-python-set-1-introduction/">Numpy - python code(Visit Site)</a> </li>  
 <br>
 
 # Youtube links <ul>
 
-<li><a href="https://youtu.be/lcWTKNVwen0">Numpy - Operations and Functions(Youtube)</a> </li>
+<li><a href="https://youtu.be/lcWTKNVwen0">Numpy - Operations and Functions(Visit Youtube)</a> </li>
+</ul>
+
+<br>
+ 
+<li><a href="https://www.youtube.com/watch?v=_d_Ka-ks2a0">Numpy - slicing , stacking arrays , indexing with boolean arrays(Visit Youtube)</a> </li>
 </ul>
 
 
