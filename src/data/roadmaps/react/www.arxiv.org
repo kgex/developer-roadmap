@@ -1,0 +1,15 @@
+Pixel is a term commonly used in digital imaging to describe a single point in a digital image. Each pixel contains information about the color and brightness of that particular point in the image. The following are some features of a pixel:
+
+Color: Each pixel has a specific color value which is represented by a combination of red, green, and blue (RGB) values.
+
+Brightness: The brightness of a pixel is also determined by the RGB values of the pixel. A pixel with high RGB values will be brighter than a pixel with low RGB values.
+
+Size: The size of a pixel varies depending on the resolution of the image. Higher resolution images have smaller pixels, while lower resolution images have larger pixels.
+
+Position: Each pixel has a unique position within the image. The position of a pixel is usually represented by its row and column coordinates.
+
+Pixel density: Pixel density refers to the number of pixels per inch (PPI) in an image. Higher pixel density results in sharper and more detailed images.
+
+Transparency: Some image formats support transparency, which allows for pixels to have a transparent or semi-transparent color value.
+
+Overall, pixels are the building blocks of digital images and play a crucial role in determining the quality and clarity of an image.
