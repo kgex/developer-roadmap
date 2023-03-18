@@ -1,0 +1,2 @@
+TRPO stands for Trust Region Policy Optimization, and it is an optimization algorithm used in reinforcement learning. The primary purpose of TRPO is to optimize the policy of an agent in a way that maximizes the expected cumulative reward it receives from the environment.
+The key feature of TRPO is that it ensures that the policy updates are conservative, which means that the new policy is not too far from the old policy. This helps to avoid policy updates that can cause catastrophic changes and make the agent's behavior unstable.
