@@ -1,12 +1,15 @@
-# SPADE (Semantic Image Synthesis with SPADE) resource 
+#  SPADE (Semantic Image Synthesis with SPADE) resource
 
-  Introduction:
-        Semantic Image Synthesis with SPADE is a deep learning method for generating high-quality images from semantic label maps, which are essentially maps that associate each pixel in an image with a class label. SPADE stands for "Spatially-Adaptive Denormalization", which is a normalization technique that is used to improve the quality of the generated images.The paper "Semantic Image Synthesis with SPADE" was published in 2019 by researchers from NVIDIA, and it describes a novel approach to generative modeling that can be used to create high-quality images in a variety of styles and domains. The method is based on a conditional generative adversarial network (cGAN) that is trained to map semantic label maps to realistic images.
+Introduction:
 
-# Resources:
- - [Semantic Image Synthesis with SPADE](https://arxiv.org/pdf/2012.04644.pdf)
-     
- - [SPADE, a semantic image segmentation model](https://www.kaggle.com/code/residentmario/spade-a-semantic-image-segmentation-model)
+The SPADE resource consists of the original research paper, as well as the associated codebase that implements the method using the PyTorch deep learning framework. The codebase includes pre-trained models for various image synthesis tasks, as well as tools for training custom models on new datasets. The resource has been widely used and cited in the computer vision and machine learning research communities for its novel approach to image synthesis.The paper proposes a novel approach to the task of image synthesis, specifically the generation of photorealistic images from semantic labels, which are high-level descriptions of the content of an image. The SPADE method uses a conditional generative adversarial network (cGAN) architecture, combined with a spatially-adaptive normalization (SPADE) layer that dynamically modulates the normalization of feature maps based on the input semantic label. This allows for the synthesis of images that are both semantically consistent with the input label and visually coherent. 
+
+# Resource:
+
+
+- [Semantic Image Synthesis with SPADE](https://arxiv.org/pdf/2012.04644.pdf)
+
+- [SPADE, a semantic image segmentation model](https://www.kaggle.com/code/residentmario/spade-a-semantic-image-segmentation-model)
 
 - [Semantic Image Synthesis with Spatially Adaptive Normalization](https://youtu.be/XKFp0bFG1tE)
 
