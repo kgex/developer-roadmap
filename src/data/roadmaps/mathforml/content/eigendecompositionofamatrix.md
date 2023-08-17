@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # **EIGEN DECOMPOSITION OF A MATRIX**
 
 ## **What is Eigen Decomposition ?**
@@ -27,11 +26,10 @@ Visit the following resources to learn more:
 - [Eigen Decomposition of matrix-Wikipedia](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix#:~:text=In%20linear%20algebra%2C%20eigendecomposition%20is,be%20factorized%20in%20this%20way.)
 
 
-
-=======
 # **EIGEN DECOMPOSITION OF A MATRIX**
 
 ## **What is Eigen Decomposition ?**
+
 - Eigen decomposition, also known as spectral decomposition, is a process of decomposing a matrix into its constituent eigenvectors and eigenvalues.
 - In linear algebra, eigenvectors and eigenvalues are used to describe the behavior of a linear transformation on a vector space. 
 - Eigenvectors are the non-zero vectors that only change in magnitude when a linear transformation is applied to them, while eigenvalues are the scalars that represent the amount of scaling that occurs when the linear transformation is applied to the eigenvectors.
@@ -56,6 +54,3 @@ where,
 
 - [Eigen Decomposition of matrix-Wikipedia](https://en.wikipedia.org/wiki/Eigendecomposition_of_a_matrix#:~:text=In%20linear%20algebra%2C%20eigendecomposition%20is,be%20factorized%20in%20this%20way.)
 
-
-
->>>>>>> 93ab68ecfe3076e3e28fa6f682b55cb56c8cdfc1
