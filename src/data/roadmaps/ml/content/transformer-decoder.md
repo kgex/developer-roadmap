@@ -1,8 +1,8 @@
 # Transformer Decoder in ML
 
-1.In machine learning, a transformer decoder is a type of neural network architecture that is commonly used in natural language processing (NLP) tasks such as language translation, text summarization, and sentiment analysis.
+1. In machine learning, a transformer decoder is a type of neural network architecture that is commonly used in natural language processing (NLP) tasks such as language translation, text summarization, and sentiment analysis.
 
-# Transformer decorder with NN
+# Transformer decoder with NN
 
 The transformer decoder is a component of the Transformer model, which was introduced in the paper "Attention Is All You Need" by Vaswani et al. in 2017. The Transformer model is a neural network architecture that uses self-attention mechanisms instead of recurrent neural networks (RNNs) to process sequential data.
 
